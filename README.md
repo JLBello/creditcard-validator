@@ -4,7 +4,7 @@ Hey there! Welcome to my Credit Card Validator project. This little tool, writte
 
 ## Overview
 
-The Credit Card Validator leverages the trusted Luhn algorithm to ensure a credit card number is valid. It supports a variety of popular card brands, including:
+This Credit Card Validator supports a variety of popular card brands, including:
 
 - **AMEX** 
 - **MasterCard** 
